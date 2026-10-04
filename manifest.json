@@ -1,0 +1,17 @@
+{
+  "name": "NEXA - Nigeria's AI Property Marketplace",
+  "short_name": "NEXA",
+  "description": "Nigeria's AI Property Marketplace - 100% Offline - Find house like you dey talk",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#7c3aed",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src": "/icons/icon-192x192.png","sizes": "192x192","type": "image/png","purpose": "any"},
+    {"src": "/icons/icon-512x512.png","sizes": "512x512","type": "image/png","purpose": "any"},
+    {"src": "/icons/icon-512-maskable.png","sizes": "512x512","type": "image/png","purpose": "maskable"}
+  ],
+  "screenshots": [{"src": "/icons/icon-512x512.png","sizes": "512x512","type": "image/png","form_factor": "narrow"}]
+}
